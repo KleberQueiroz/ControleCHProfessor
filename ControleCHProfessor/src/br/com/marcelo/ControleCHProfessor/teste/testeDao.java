@@ -8,7 +8,7 @@ public class testeDao {
 	
 		Faculdade g =new Faculdade();
 		g.setNome("Anhembi Morumbi");
-		g.setCampus("Vila Olimpia");
+		g.setCampus("Vila ");
 		
 		//FaculdadeDAO.getInstance().findAll();
 		
